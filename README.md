@@ -9,13 +9,11 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/slabadack" target="_blank">
-
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/slabadack" target="_blank" <img src=".github/linkedin.gif" />
     </a>
 </div>
 
-<div>
+<div align="center">
     <p>So long and thanks for all the fish </p>
 </div>
 
