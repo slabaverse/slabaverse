@@ -18,7 +18,7 @@
 </p>
 
 
-<p align='center'>
+<p align="center">
     💻 My workspace<br /><br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
     <img
@@ -31,7 +31,7 @@
 </p>
 
 
-<p align='center'>
+<p align="center">
     📫 How to reach me: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a>
 </p>
 
@@ -44,6 +44,4 @@
         alt="Top Langs" height="165" />
 </p>
 
-<div align="center">
-    <p>So long and thanks for all the fish </p>
-</div>
+<h3 align="right">So long and thanks for all the fish </h3>
