@@ -2,46 +2,52 @@
     <img src=".github/original.gif">
 </div>
 
-<h1 align="left">Adam's GitHub!</h1>
+<h1 align='center'>
+    Hi there 👋 I'm Adam 👨‍💻
+</h1>
 
-<div align="left">
-    <p>Tech lover and an eternal student. Stay hungry, stay foolish!</p>
-</div>
+<p align='center'>
+    A dev student currently in Canoinhas, Brazil.
+</p>
 
-<div align="center">
 
-    <a href="https://www.linkedin.com/in/slabadack/" target="_blank">
+
+<p align='center'>
+
+    <a href="https://www.linkedin.com/in/slabadack/">
         <img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
+    </a>&nbsp;&nbsp;
+    <a href="https://instagram.com/oadamslaba">
+        <img
+            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>&nbsp;&nbsp;
 
-<div>
+</p>
 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align='center'>
+    <a href="#"><img
+            src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark"
+            width="350"></a>
+</p>
 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align='center'>
+    💻 My workspace<br /><br />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-
-    [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />]
-
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</div>
+<p align='center'>
+    📫 How to reach me: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a>
+</p>
+<p align='center'>
+    <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> May the force be with
+    you
+</p>
 
 <p>
     <img align="center"
