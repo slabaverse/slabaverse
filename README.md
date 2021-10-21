@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/original.gif" width="200px">
+    <img src=".github/original.gif" width="2000px">
 </div>
 
 <h1 align='center'>
@@ -10,12 +10,12 @@
     A dev student currently in Canoinhas, Brazil.
 </p>
 
-<div align="center">
+<p align="center">
     <a href="https://www.linkedin.com/in/arslabadack" target="_blank">
 
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
     </a>
-</div>
+</p>
 
 
 <p align='center'>
