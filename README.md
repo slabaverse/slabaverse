@@ -6,12 +6,12 @@
     Hi, I'm Adam.
 </h1>
 
-<h4 align='left'>
+<h4 align='right'>
     A dev student, tech enthusiast and passionate for learning.
 </h4>
 
 <h4 align='left'>
-    :pushpin: Canoinhas, Brazil;<br /><br />
+    :pushpin: Canoinhas, Brazil :br:;<br /><br />
     :closed_book: System Analysis and Development (2019->2022) at @IFSC; <br /><br />
     :closed_book: Data Science and Analitycs (2021->2023) at @USP; <br /><br />
 </h4>
@@ -42,3 +42,16 @@ Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linked
 Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
 
 <h3 align="right">So long and thanks for all the fish </h3>
+
+
+![Python Badge]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+
+![HTML Badge]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+
+![CSS Badge]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+
+![JS Badge]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+
+![JAVA Badge]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
+
+![C Badge]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
