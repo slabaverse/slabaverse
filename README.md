@@ -10,12 +10,6 @@
     A dev student currently in Canoinhas, Brazil.
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/arslabadack" target="_blank">
-
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-    </a>
-</p>
 
 
 <p align="center">
@@ -23,7 +17,6 @@
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
     <img
         src="https://img.shields.io/badge/intel-core%20i7%2009th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img
