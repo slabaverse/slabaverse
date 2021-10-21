@@ -9,22 +9,18 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/eduardo-h-o" target="_blank">
 
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-    </a>
-</div>
-
-<div align="center">
     <a href="https://www.linkedin.com/in/slabadack/" target="_blank">
         <img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
-    <a href="https://www.instagram.com/oadamslaba/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+    </p>
+    <p>
+        <a href="https://www.instagram.com/oadamslaba/" target="_blank">
+            <img
+                src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+    </p>
 </div>
 
 <div>
