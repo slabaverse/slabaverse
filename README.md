@@ -26,14 +26,6 @@
     📫 How to reach me: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a>
 </p>
 
-<p align='center'>
-
-    <a href="https://www.linkedin.com/in/arslabadack/">
-        <img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
-</p>
-
 <p>
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=arslabadack&theme=radical&show_icons=true&count_private=true?&include_all_commits=true"
@@ -42,5 +34,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslabadack&layout=compact&theme=radical"
         alt="Top Langs" height="165" />
 </p>
+
+[![Linkedin
+Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslabadack/)](https://www.linkedin.com/in/arslabadack/)
+[![Gmail
+Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com))
 
 <h3 align="right">So long and thanks for all the fish </h3>
