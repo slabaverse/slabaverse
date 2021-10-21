@@ -21,11 +21,6 @@
         src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-
-<p align="center">
-    📫 How to reach me: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a>
-</p>
-
 <p>
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=arslabadack&theme=radical&show_icons=true&count_private=true?&include_all_commits=true"
@@ -35,9 +30,12 @@
         alt="Top Langs" height="165" />
 </p>
 
-[![Linkedin
-Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslabadack/)](https://www.linkedin.com/in/arslabadack/)
-[![Gmail
-Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com))
+<p align="center">
+
+    [![Linkedin
+    Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslabadack/)](https://www.linkedin.com/in/arslabadack/)
+    [![Gmail
+    Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
+</p>
 
 <h3 align="right">So long and thanks for all the fish </h3>
