@@ -30,12 +30,9 @@
         alt="Top Langs" height="165" />
 </p>
 
-<p align="center">
-
-    [![Linkedin
-    Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslabadack/)](https://www.linkedin.com/in/arslabadack/)
-    [![Gmail
-    Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
-</p>
+[![Linkedin
+Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslabadack/)](https://www.linkedin.com/in/arslabadack/)
+[![Gmail
+Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
 
 <h3 align="right">So long and thanks for all the fish </h3>
