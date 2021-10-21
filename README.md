@@ -10,8 +10,6 @@
     A dev student currently in Canoinhas, Brazil.
 </p>
 
-
-
 <p align='center'>
 
     <a href="https://www.linkedin.com/in/slabadack/">
@@ -26,14 +24,10 @@
 </p>
 
 <p align='center'>
-    <a href="#"><img
-            src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark"
-            width="350"></a>
-</p>
-
-<p align='center'>
     💻 My workspace<br /><br />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/intel-core%20i7%2009th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img
@@ -45,7 +39,7 @@
     📫 How to reach me: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a>
 </p>
 <p align='center'>
-    <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> May the force be with
+    <a href="#"><img src="https://badges.pufler.dev/visits/arslabadack/arslabadack"></a> May the force be with
     you
 </p>
 
