@@ -2,12 +2,20 @@
     <img src=".github/original.gif" width="2000px">
 </div>
 
-<h1 align='center'>
+<h1 align='right'>
     Hi there 👋 I'm Adam 👨‍💻
 </h1>
 
 <p align='center'>
     A dev student currently in Canoinhas, Brazil.
+</p>
+
+<p align='center'>
+
+    <a href="https://www.linkedin.com/in/arslabadack/">
+        <img
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
 </p>
 
 
