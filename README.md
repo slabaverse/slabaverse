@@ -3,12 +3,17 @@
 </div>
 
 <h1 align='right'>
-    Hi there 👋 I'm Adam 👨‍💻
+    Hi, I'm Adam.
 </h1>
 
-<p align='center'>
-    A dev student currently in Canoinhas, Brazil.
-</p>
+<h5 align='center'>
+    A dev student, currently living in Canoinhas, Brazil. I'm tech enthusiast and passionate for learning.
+</h5>
+
+:pushpin: Canoinhas, Brazil;
+:closed_book: System Analisys and Development (6/6) at @IFSC
+:closed_book: Data Science and Analitycs at @USP
+
 
 <p align="center">
     💻 My workspace<br /><br />
