@@ -10,16 +10,6 @@
     A dev student currently in Canoinhas, Brazil.
 </p>
 
-<p align='center'>
-
-    <a href="https://www.linkedin.com/in/arslabadack/">
-        <img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
-
-
-
 <p align="center">
     💻 My workspace<br /><br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
@@ -34,6 +24,14 @@
 
 <p align="center">
     📫 How to reach me: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a>
+</p>
+
+<p align='center'>
+
+    <a href="https://www.linkedin.com/in/arslabadack/">
+        <img
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
 </p>
 
 <p>
