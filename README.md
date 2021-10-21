@@ -6,14 +6,15 @@
     Hi, I'm Adam.
 </h1>
 
-<h5 align='center'>
-    A dev student, currently living in Canoinhas, Brazil. I'm tech enthusiast and passionate for learning.
-</h5>
+<h4 align='left'>
+    A dev student, tech enthusiast and passionate for learning.
+</h4>
 
-:pushpin: Canoinhas, Brazil;
-:closed_book: System Analisys and Development (6/6) at @IFSC
-:closed_book: Data Science and Analitycs at @USP
-
+<h4 align='left'>
+    :pushpin: Canoinhas, Brazil;<br /><br />
+    :closed_book: System Analysis and Development (2019->2022) at @IFSC; <br /><br />
+    :closed_book: Data Science and Analitycs (2021->2023) at @USP; <br /><br />
+</h4>
 
 <p align="center">
     💻 My workspace<br /><br />
