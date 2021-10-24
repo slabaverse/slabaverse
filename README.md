@@ -60,8 +60,8 @@
 
 
 
-[![Linkedin Badge](https://badges.gitter.im/arslabadack.svg)](https://gitter.im/arslabadack)
-[![Github Badge](
+[![Linkedin
+Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
 
 [![Instagram
 Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oadamslaba/)](https://www.instagram.com/oadamslaba/)
