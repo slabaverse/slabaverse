@@ -16,6 +16,8 @@
     :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP; <br /><br />
 </h4>
 
+<br />
+
 <p align="center">
     💻 My workspace<br /><br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
@@ -26,6 +28,12 @@
     <img
         src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
+<br />
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3.7.svg?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 <p>
     <img align="center"
