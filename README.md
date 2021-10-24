@@ -32,10 +32,7 @@
 
 <br />
 
-<div align="center">
-    ![Python]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
-
-</div>
+![Python]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
 
 <p>
     <img align="center"
