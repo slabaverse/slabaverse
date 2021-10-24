@@ -11,7 +11,7 @@
 </h3>
 <br /><br />
 
-<h4 align='center'>
+<h4 align='left'>
     :pushpin: Canoinhas, Brazil;<br /><br />
     :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br /><br />
     :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br /><br />
