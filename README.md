@@ -11,9 +11,12 @@
 </h4>
 
 <h4 align='left'>
-    :pushpin: Canoinhas, Brazil;<br /><br />
-    :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br /><br />
-    :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP; <br /><br />
+    :pushpin: Canoinhas, Brazil;<br />
+    :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br />
+    :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br />
+    📫 <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br />
+    <a href="#"><img src="https://badges.pufler.dev/visits/arslabadack/arslabadack"></a>
+    <br /><br />
 </h4>
 <br />
 
@@ -40,7 +43,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
@@ -55,7 +58,5 @@
 
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
-[![Gmail
-Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
-
+<br /><br />
 <h3 align="right">So long and thanks for all the fish </h3>
