@@ -19,7 +19,8 @@
 <br />
 
 <p align="center">
-    💻 My workspace<br /><br />
+    <h4>💻 My workspace</h4>
+    <br /><br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
     <img
         src="https://img.shields.io/badge/intel-core%20i7%2009th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -32,7 +33,8 @@
 <br />
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3.7.svg?style=for-the-badge&logo=python&logoColor=white" />
+    ![Python]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+
 </div>
 
 <p>
