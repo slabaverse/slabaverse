@@ -12,7 +12,8 @@
 <br /><br />
 
 <h4 align='left'>
-    :pushpin: Canoinhas, Brazil;<br /><br />
+    :pushpin: Canoinhas, Brazil;
+    :target: Data Science; <br /><br />
     :closed_book: Technologist in System Analysis and Development
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
     :closed_book: MBA in Data Science and Analytics
@@ -36,7 +37,7 @@
 
 <br />
 
-<h4 align="center"> :brain: Keep Learning</h4>
+<h4 align="center"> :brain: Never Stop Learning</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
