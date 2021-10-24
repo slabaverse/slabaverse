@@ -9,12 +9,13 @@
 <h4 align='right'>
     A dev student, tech enthusiast and passionate for learning.
 </h4>
+<br /><br />
 
 <h4 align='left'>
-    :pushpin: Canoinhas, Brazil;<br />
-    :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br />
-    :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br />
-    📫 <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br />
+    :pushpin: Canoinhas, Brazil;<br /><br />
+    :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br /><br />
+    :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br /><br />
+    📫 <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <a href="#"><img src="https://badges.pufler.dev/visits/arslabadack/arslabadack"></a>
     <br /><br />
 </h4>
@@ -47,6 +48,7 @@
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
+<br /><br />
 <p>
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=arslabadack&theme=radical&show_icons=true&count_private=true?&include_all_commits=true"
@@ -60,3 +62,10 @@
 Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
 <br /><br />
 <h3 align="right">So long and thanks for all the fish </h3>
+
+<sub>
+    [<img
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/slabadack/)
+    [<img
+        src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/oadamslaba/)
+</sub>
