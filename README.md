@@ -12,11 +12,12 @@
 <br /><br />
 
 <h4 align='left'>
-    :pushpin: Canoinhas, Brazil;<br /><br />
+    :pushpin:
+    <img src="https://img.shields.io/badge/living-Canoinhas%2C%20Brazil-brightgreen" />
+    <br /><br />
     :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br /><br />
     :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br /><br />
     📫 <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
-    <a href="#"><img src="https://badges.pufler.dev/visits/arslabadack/arslabadack"></a>
     <br /><br />
 </h4>
 <br />
