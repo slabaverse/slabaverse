@@ -21,7 +21,7 @@
 </h4>
 <br />
 
-<h4 align="center"> My Workspace</h4>
+<h4 align="center"> :rocket: My Workspace</h4>
 <p align="center">
     <br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
@@ -35,7 +35,7 @@
 
 <br />
 
-<h4 align="center"> Learning</h4>
+<h4 align="center"> :brain: Keep Learning</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
@@ -58,8 +58,10 @@
         alt="Top Langs" height="165" />
 </p>
 
-[![Linkedin
-Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
+
+
+[![Linkedin Badge](https://badges.gitter.im/arslabadack.svg)](https://gitter.im/arslabadack)
+[![Github Badge](
 
 [![Instagram
 Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oadamslaba/)](https://www.instagram.com/oadamslaba/)
