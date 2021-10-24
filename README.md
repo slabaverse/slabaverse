@@ -57,14 +57,14 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslabadack&layout=compact&theme=radical"
         alt="Top Langs" height="165" />
 </p>
+<br /><br />>
 
+<p>
+    [![Linkedin
+    Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
 
-
-[![Linkedin
-Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
-
-[![Instagram
-Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oadamslaba/)](https://www.instagram.com/oadamslaba/)
-
+    [![Instagram
+    Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oadamslaba/)](https://www.instagram.com/oadamslaba/)
+</p>
 <br /><br />
 <h3 align="right">So long and thanks for all the fish </h3>
