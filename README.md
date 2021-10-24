@@ -12,11 +12,11 @@
 <br /><br />
 
 <h4 align='left'>
-    :pushpin:
-    <img src="https://img.shields.io/badge/living-Canoinhas%2C%20Brazil-brightgreen" />
-    <br /><br />
-    :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br /><br />
-    :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br /><br />
+    :pushpin: Canoinhas, Brazil;<br /><br />
+    :closed_book: Technologist in System Analysis and Development
+    <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
+    :closed_book: MBA in Data Science and Analytics
+    <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202023-brightgreen" /><br /><br />
     📫 <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <br /><br />
 </h4>
