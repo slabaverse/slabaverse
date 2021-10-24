@@ -60,13 +60,9 @@
 
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
+
+[![Instagram
+Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oadamslaba/)](https://www.instagram.com/oadamslaba/)
+
 <br /><br />
 <h3 align="right">So long and thanks for all the fish </h3>
-
-<p>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="https://www.linkedin.com/in/slabadack/"></a>
-</p>
-<img
-    src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/oadamslaba/)/>
-</p>
