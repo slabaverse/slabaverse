@@ -7,16 +7,16 @@
 </h1>
 
 <h3 align='right'>
-    A dev student, tech enthusiast and passionate for learning.
+    A dev student, tech enthusiast, science lover and passionate for learning.
 </h3>
 <br /><br />
 
 <h4 align='left'>
     :round_pushpin: Canoinhas, Brazil;<br /><br />
     :dart: Data Scientist; <br /><br />
-    :closed_book: Technologist in System Analysis and Development
+    :lock: Technologist in System Analysis and Development
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
-    :closed_book: MBA in Data Science and Analytics
+    :lock: MBA in Data Science and Analytics
     <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202023-brightgreen" /><br /><br />
     :mailbox_with_mail: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <br /><br />
