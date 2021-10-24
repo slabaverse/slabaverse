@@ -19,7 +19,7 @@
 
 <h4 align="center"> My Workspace</h4>
 <p align="center">
-    <br /><br />
+    <br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
     <img
         src="https://img.shields.io/badge/intel-core%20i7%2009th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -50,3 +50,9 @@ Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linked
 Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
 
 <h3 align="right">So long and thanks for all the fish </h3>
+
+<a href="https://www.linkedin.com/in/<slabadack>" alt="linkedin" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
