@@ -12,13 +12,13 @@
 <br /><br />
 
 <h4 align='left'>
-    :pushpin: Canoinhas, Brazil;
-    :target: Data Science; <br /><br />
+    :round_pushpin: Canoinhas, Brazil;<br /><br />
+    :dart: Data Scientist; <br /><br />
     :closed_book: Technologist in System Analysis and Development
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
     :closed_book: MBA in Data Science and Analytics
     <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202023-brightgreen" /><br /><br />
-    📫 <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
+    :mailbox_with_mail: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <br /><br />
 </h4>
 <br />
