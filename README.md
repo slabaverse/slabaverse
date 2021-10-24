@@ -11,7 +11,7 @@
 </h3>
 <br /><br />
 
-<h4 align='left'>
+<h4 align='center'>
     :pushpin: Canoinhas, Brazil;<br /><br />
     :closed_book: Technologist in System Analysis and Development (2019->2022) at @IFSC; <br /><br />
     :closed_book: MBA in Data Science and Analytics (2021->2023) at @USP;<br /><br />
@@ -21,8 +21,8 @@
 </h4>
 <br />
 
-<h4 align="left"> :rocket: My Workspace</h4>
-<p align="left">
+<h4 align="center"> :rocket: My Workspace</h4>
+<p align="center">
     <br />
     <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
     <img
@@ -35,8 +35,8 @@
 
 <br />
 
-<h4 align="left"> :brain: Keep Learning</h4>
-<p align="left">
+<h4 align="center"> :brain: Keep Learning</h4>
+<p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
