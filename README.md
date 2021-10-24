@@ -33,7 +33,7 @@
 
 <br />
 <p align="center">
-    < img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
+    <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
 </p>
 <p>
     <img align="center"
@@ -45,14 +45,8 @@
 </p>
 
 [![Linkedin
-Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslabadack/)](https://www.linkedin.com/in/slabadack/)
+Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arslabadack@gmail.com)](arslabadack@gmail.com)
 
 <h3 align="right">So long and thanks for all the fish </h3>
-
-<a href="https://www.linkedin.com/in/<slabadack>" alt="linkedin" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-
-</a>
