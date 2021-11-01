@@ -13,7 +13,8 @@
 
 <h4 align='left'>
     :round_pushpin: Canoinhas, Brazil;<br /><br />
-    :dart: Data Scientist; <br /><br />
+    :dart: Data Scientist;
+    <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
     :lock: Technologist in System Analysis and Development
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
     :lock: MBA in Data Science and Analytics
