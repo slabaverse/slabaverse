@@ -13,8 +13,14 @@
 
 <h4 align='left'>
     :round_pushpin: Canoinhas, Brazil;<br /><br />
-    :dart: Data Scientist;
+    :dart: Data Scientist
     <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
+    :unlock: Forest Engineer
+    <img src="https://img.shields.io/badge/UnC-2007%20--%202010-brightgreen" /> <br /><br />
+    :unlock: MBA in Business Management
+    <img src="https://img.shields.io/badge/FGV-2015%20--%202017-brightgreen" /> <br /><br />
+    :unlock: Lean Six Sigma: Green Belt
+    <img src="https://img.shields.io/badge/PUC%2FPR-2019%20--%202020-brightgreen" /> <br /><br />
     :lock: Technologist in System Analysis and Development
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
     :lock: MBA in Data Science and Analytics
