@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/FGV-2015%20--%202017-brightgreen" /> <br /><br />
     :unlock: Lean Six Sigma: Green Belt
     <img src="https://img.shields.io/badge/PUC%2FPR-2018%20--%202019-brightgreen" /> <br /><br />
-    :lock: Technologist in System Analysis and Development
+    :unlock: Technologist in System Analysis and Development
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
     :lock: MBA in Data Science and Analytics
     <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202023-brightgreen" /><br /><br />
