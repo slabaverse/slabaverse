@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/original.gif" width="800px">
+    <img src=".github/original.gif" width="600px">
 </div>
 
 <h1 align='right'>
