@@ -40,8 +40,7 @@
         src="https://img.shields.io/badge/intel-core%20i7%2009th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    
 </p>
 
 <br />
@@ -69,8 +68,9 @@
 </p>
 <br /><br />
 
-<h4 align="center"> 🧰: Tools</h4>
+<h4 align="center"> 🧰: Toolbox</h4>
 <p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
