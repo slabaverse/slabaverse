@@ -49,7 +49,7 @@
 <h4 align="center"> :brain: Learning</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" />
+    <img src=![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -72,9 +72,6 @@
 
 [![Linkedin
 Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/slabadack/)](https://www.linkedin.com/in/slabadack/)
-
-[![Instagram
-Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oadamslaba/)](https://www.instagram.com/oadamslaba/)
 
 <br /><br />
 <h3 align="right">So long and thanks for all the fish. </h3>
