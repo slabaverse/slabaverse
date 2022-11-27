@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/IFSC-2019%20--%202022-brightgreen" /> <br /><br />
     :lock: MBA in Data Science and Analytics
     <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202023-brightgreen" /> <br /><br />
-    :lock: Lean Six Sigma: Black Belt
-    <img src="https://img.shields.io/badge/EDTI-2020%22-brightgreen" /> <br /><br />
+    :unlock: Lean Six Sigma: Black Belt
+    <img src="https://img.shields.io/badge/EDTI-2022-brightgreen" /> <br /><br />
     :mailbox_with_mail: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <br /><br />
 </h4>
