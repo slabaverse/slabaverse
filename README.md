@@ -82,10 +82,10 @@
 
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=arslabadack&theme=radical&show_icons=true&count_private=true?&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=slabaverse&theme=radical&show_icons=true&count_private=true?&include_all_commits=true"
         alt="Github Stats" height="165" />
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslabadack&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=slabaverse&layout=compact&theme=radical"
         alt="Top Langs" height="165" />
 </p>
 <br /><br />
