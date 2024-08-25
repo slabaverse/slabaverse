@@ -12,7 +12,7 @@
 <br /><br />
 
 <h4 align='left'>
-    :round_pushpin: Canoinhas, Brazil;<br /><br />
+    :round_pushpin: Lages, Brazil;<br /><br />
     :dart: Data Scientist
     <img src="https://img.shields.io/badge/status-loading...-red" /> <br /><br />
     :unlock: Forest Engineer
@@ -26,6 +26,8 @@
     :unlock: Lean Six Sigma: Black Belt
     <img src="https://img.shields.io/badge/EDTI-2022-brightgreen" /> <br /><br />
     :unlock: MBA in Data Science and Analytics
+    <img src="https://img.shields.io/badge/EDTI-2022-brightgreen" /> <br /><br />
+    :lock: Master's Degree in Forestry Engineering
     <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202024-brightgreen" /> <br /><br />
     :mailbox_with_mail: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <br /><br />
