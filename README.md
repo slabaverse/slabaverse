@@ -28,7 +28,7 @@
     :unlock: MBA in Data Science and Analytics
     <img src="https://img.shields.io/badge/EDTI-2022-brightgreen" /> <br /><br />
     :lock: Master's Degree in Forestry Engineering
-    <img src="https://img.shields.io/badge/USP%2FEsalq-2021%20--%202024-brightgreen" /> <br /><br />
+    <img src="https://img.shields.io/badge/UDESC-2024%20--%202026-brightgreen" /> <br /><br />
     :mailbox_with_mail: <a href='mailto:arslabadack@gmail.com'>arslabadack@gmail.com</a><br /><br />
     <br /><br />
 </h4>
